@@ -21,3 +21,4 @@ Exemplo de funções implementadas ao token:
 
 
 Como resultado, o token Money foi criado
+:)
