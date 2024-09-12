@@ -163,5 +163,10 @@ Exemplo de funções implementadas ao token:
 ![image](https://github.com/user-attachments/assets/6a113e5b-3562-46ca-b1a9-8981e2ca7a34)
 
 
+![image](https://github.com/user-attachments/assets/a0d7ba3b-802f-4d5a-ab51-699a79d10552)
+
+
+![image](https://github.com/user-attachments/assets/ee9626b4-bf51-48a6-b8ac-43ef8e93cef0)
+
 Como resultado, o token Money foi criado
 :)
